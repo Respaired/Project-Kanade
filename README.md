@@ -15,10 +15,10 @@ Feel free to check:
 -- a fast bandwidth extention module, which focuses on upsampling and increase the quality of low resolution vocal audio. it was trained on a large japanese dataset. you can check the samples at the end of [English - Colab](https://colab.research.google.com/drive/1efRFWeHI5ZCcwvQJDRzt8qT3m6CB7XzK?usp=sharing).
 
 
-- [low bit reconstruction](not)
+- [low bit reconstruction](no_link_just_yet)
 -- a diffusion model that tries to remove the compression artifacts from over compressed vocal audio. you can listen to the samples from the same notebook.
 
-- [Phonemization Script](not)
+- [Phonemization Script](no_link_just_yet)
 -- a new phonemization script that will accurately map the Japanese to IPA.
 
 - [Phoneme to Grapheme](https://huggingface.co/Respair/Japanese_Phoneme_to_Grapheme_LLM)
@@ -42,10 +42,10 @@ inferenceコードが見つからなかった場合、多分後日投稿する�
 - [Bandwidth Extention](https://huggingface.co/Respair/BWE_Recon)
 -- 高速な帯域拡張モジュールで、低解像度のボーカルオーディオのアップサンプリングと品質向上に重点を置いています。大規模な日本語データセットでトレーニングされています。サンプルは[English - Colab](https://colab.research.google.com/drive/1efRFWeHI5ZCcwvQJDRzt8qT3m6CB7XzK?usp=sharing)の最後で確認できます。
 
-- [low bit reconstruction](not)
+- [low bit reconstruction](no_link_just_yet)
 -- 過度に圧縮されたボーカルオーディオから圧縮アーティファクトを除去しようとする拡散モデル。同じノートブックからサンプルを聴くことができます。
 
-- [Phonemization Script](not)
+- [Phonemization Script](no_link_just_yet)
 -- 日本語をIPAに正確にマッピングする新しい音素化スクリプト。
 
 - [Phoneme to Grapheme](https://huggingface.co/Respair/Japanese_Phoneme_to_Grapheme_LLM)
