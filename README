@@ -13,8 +13,8 @@ inferenceコードが見つからなかった場合、多分後日投稿する�
 これらのモデルの一部は実験的なものであるため、うまく機能しない場合がありますが、どなたかが改善できるかもしれないので、あえて共有します。
 
 Feel free to check:
-- [Tsukasa Speech](https://huggingface.co/Respair/Tsukasa_Speech)
--- an advanced speech generation model focused on performance and rich expressions, it's also very fast. 
+-[Tsukasa Speech](https://huggingface.co/Respair/Tsukasa_Speech)
+--an advanced speech generation model focused on performance and rich expressions, it's also very fast. 
 
 -[Bandwidth Extention](https://huggingface.co/Respair/BWE_Recon)
 -- a fast bandwidth extention module, which focuses on upsampling and increase the quality of low resolution vocal audio. it was trained on a large japanese dataset. you can check the samples at the end of [Colab]()
