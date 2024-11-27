@@ -7,11 +7,6 @@ i post the links to some models i trained based on various papers and cool archi
 in case you didn't find the inference code, i will post them at a later date. i'm sorry but please check again later.
 Some of these models are experimental, so i apologize in advance in case they don't work well for you. but i'm still going to share so perhaps somebody can improve upon them.
 
-これは個人的なプロジェクトで、主に日本語音声処理の一部の側面の改善に焦点を当てています。時折、LLMsについても取り組んでいます。
-私は様々な論文やクールなアーキテクチャを見つけて、それらに基づいて学習したモデルのリンクをいくつか投稿します。
-inferenceコードが見つからなかった場合、多分後日投稿する予定です。申し訳ありませんが、後でもう一度確認してください。
-これらのモデルの一部は実験的なものであるため、うまく機能しない場合がありますが、どなたかが改善できるかもしれないので、あえて共有します。
-
 Feel free to check:
 - [Tsukasa Speech](https://huggingface.co/Respair/Tsukasa_Speech)
 -- an advanced speech generation model focused on performance and rich expressions, it's also very fast. 
@@ -33,6 +28,12 @@ Feel free to check:
 -- a Whisper Finetune, but it outputs japanese phonemes instead of regular text. it's not foolproof, but works better than any normal text mapping.
 
 ____________________________________________
+
+これは個人的なプロジェクトで、主に日本語音声処理の一部の側面の改善に焦点を当てています。時折、LLMsについても取り組んでいます。
+私は様々な論文やクールなアーキテクチャを見つけて、それらに基づいて学習したモデルのリンクをいくつか投稿します。
+inferenceコードが見つからなかった場合、多分後日投稿する予定です。申し訳ありませんが、後でもう一度確認してください。
+これらのモデルの一部は実験的なものであるため、うまく機能しない場合がありますが、どなたかが改善できるかもしれないので、あえて共有します。
+
 
 以下のリンクを自由にチェックしてください:
 - [Tsukasa Speech](https://huggingface.co/Respair/Tsukasa_Speech)
