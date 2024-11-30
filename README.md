@@ -3,7 +3,7 @@
 
 This is a personal project, mainly focusing on Japanese Speech processing. also occasionally LLMs.
 
-i post the links to some models i trained based on various papers and cool architectures i found.
+i post the links to some models i trained based on various papers and cool architectures i found. sometimes i modify the architectures to improve them where i can.
 in case you didn't find the inference code, i will post them at a later date. i'm sorry but please check again later.
 Some of these models are experimental, so i apologize in advance in case they don't work well for you. but i'm still going to share so perhaps somebody can improve upon them.
 
