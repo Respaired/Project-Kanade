@@ -11,7 +11,7 @@ Feel free to check:
 - [Tsukasa Speech](https://huggingface.co/Respair/Tsukasa_Speech)
 -- an advanced speech generation model focused on performance and rich expressions, it's also very fast.
 
--[Chatting with Aira](https://huggingface.co/spaces/Respair/Chatting_with_Aira)
+- [Chatting with Aira](https://huggingface.co/spaces/Respair/Chatting_with_Aira)
 -- a small experiement with some of the tools made here, particularly the speech generation networks.
 
 - [HiFormer](https://huggingface.co/Respair/HiFormer_Vocoder)
@@ -47,7 +47,7 @@ inferenceコードが見つからなかった場合、多分後日投稿する�
 - [Tsukasa Speech](https://huggingface.co/Respair/Tsukasa_Speech)
 -- パフォーマンスと豊かな表現に焦点を当てた音声生成モデル。
 
--[愛良との会話](https://huggingface.co/spaces/Respair/Chatting_with_Aira)
+- [愛良との会話](https://huggingface.co/spaces/Respair/Chatting_with_Aira)
 --司を含む様々な技術を利用して作成した愛良との会話をどうぞ試してみてください。（最適化はあまりされていないかもしれませんが、ご理解いただきありがとうございます）
 
 - [HiFormer](https://huggingface.co/Respair/HiFormer_Vocoder)
