@@ -9,7 +9,13 @@ Some of these models are experimental, so i apologize in advance in case they do
 
 Feel free to check:
 - [Tsukasa Speech](https://huggingface.co/Respair/Tsukasa_Speech)
--- an advanced speech generation model focused on performance and rich expressions, it's also very fast. 
+-- an advanced speech generation model focused on performance and rich expressions, it's also very fast.
+
+--[Chatting with Aira](https://huggingface.co/spaces/Respair/Chatting_with_Aira)
+-- a small experiement with some of the tools made here, particularly the speech generation networks.
+
+- [HiFormer](https://huggingface.co/Respair/HiFormer_Vocoder)
+-- a Vocoder based on Ring Attention, Conformer (overall borrowed from Ringformer) and Neural Source Filtering. a checkpoint that was trained on a large multilingual dataset (more than 1k+ Hours) with Japanese included is also provided.
 
 - [Bandwidth Extention](https://huggingface.co/Respair/BWE_Recon)
 -- a fast bandwidth extention module, which focuses on upsampling and increase the quality of low resolution vocal audio. it was trained on a large japanese dataset. you can check the samples at the end of [English - Colab](https://colab.research.google.com/drive/1efRFWeHI5ZCcwvQJDRzt8qT3m6CB7XzK?usp=sharing).
@@ -40,6 +46,12 @@ inferenceコードが見つからなかった場合、多分後日投稿する�
 以下のリンクを自由にチェックしてください:
 - [Tsukasa Speech](https://huggingface.co/Respair/Tsukasa_Speech)
 -- パフォーマンスと豊かな表現に焦点を当てた音声生成モデル。
+
+--[愛良との会話](https://huggingface.co/spaces/Respair/Chatting_with_Aira)
+--司を含む様々な技術を利用して作成した愛良との会話をどうぞ試してみてください。（最適化はあまりされていないかもしれませんが、ご理解いただきありがとうございます）
+
+- [HiFormer](https://huggingface.co/Respair/HiFormer_Vocoder)
+-- リングアテンション、コンフォーマー（全体的にRingformerから借用）、およびニューラルソースフィルタリングに基づくボコーダです。日本語を含む大規模なマルチリンガルデータセット（1k時間以上）でトレーニングされたチェックポイントも提供されています。
 
 - [Bandwidth Extention](https://huggingface.co/Respair/BWE_Recon)
 -- 高速な帯域拡張モジュールで、低解像度のボーカルオーディオのアップサンプリングと品質向上に重点を置いています。大規模な日本語データセットでトレーニングされています。サンプルは[English - Colab](https://colab.research.google.com/drive/1efRFWeHI5ZCcwvQJDRzt8qT3m6CB7XzK?usp=sharing)の最後で確認できます。
