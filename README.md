@@ -14,6 +14,12 @@ Feel free to check:
 - [Chatting with Aira](https://huggingface.co/spaces/Respair/Chatting_with_Aira)
 -- a small experiement with some of the tools made here, particularly the speech generation networks.
 
+- [RyuseiNet](https://huggingface.co/Respair/RyuseiNet)
+-- a powerful speaker embedding model
+
+- [Takane](https://huggingface.co/spaces/Respair/Takane)
+-- a tech demo for an Autoregressive TTS, probably the best out there
+
 - [HiFormer](https://huggingface.co/Respair/HiFormer_Vocoder)
 -- a Vocoder based on Ring Attention, Conformer (overall borrowed from Ringformer) and Neural Source Filtering. a checkpoint that was trained on a large multilingual dataset (more than 1k+ Hours) with Japanese included is also provided.
 
@@ -46,6 +52,12 @@ inferenceコードが見つからなかった場合、多分後日投稿する�
 以下のリンクを自由にチェックしてください:
 - [Tsukasa Speech](https://huggingface.co/Respair/Tsukasa_Speech)
 -- パフォーマンスと豊かな表現に焦点を当てた音声生成モデル。
+
+- [RyuseiNet](https://huggingface.co/Respair/RyuseiNet)
+-- 強力なspeaker embeddingモデル
+  
+- [Takane](https://huggingface.co/spaces/Respair/Takane)
+-- Autoregressive TTSの技術デモ、おそらく最高のもの
 
 - [愛良との会話](https://huggingface.co/spaces/Respair/Chatting_with_Aira)
 --司を含む様々な技術を利用して作成した愛良との会話をどうぞ試してみてください。（最適化はあまりされていないかもしれませんが、ご理解いただきありがとうございます）
